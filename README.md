@@ -24,7 +24,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
+- Set up the needed virtual machines (server and computer). You can follow the tutorial [here](https://github.com/ChristalLewis/vm-remote-desktop)
 - Step 2
 - Step 3
 - Step 4
